@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FastingApp</string>
+    <string name="hyperlink">Dont have an account?<a href="mainstats::class.java">Sign up</a></string>
+    <string name="link"><a href="">See more</a></string>
+    <string name="FastingApp">dropDownMenu</string>
+    <string-array name="countries">
+        <item>Sweden</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Italy</item>
+        <item>Norway</item>
+        <item>Canada</item>
+    </string-array>
+</resources>
